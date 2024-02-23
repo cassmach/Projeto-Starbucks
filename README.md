@@ -14,7 +14,7 @@ Veja ele aqui > https://zertel95.github.io/Projeto-Starbucks/
 </p>
 
 <p align="center">
-  <img alt="projeto devlinks" src="image-nt.jpg">
+  <img alt="projeto devlinks" src=".github/image-nt.jpg">
 </p>
 
 <br>
